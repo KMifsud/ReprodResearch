@@ -166,6 +166,7 @@ Link to your organisation's IP/Copyright person.
 
 <!-- Who do researchers talk to for copyright and IP help? Got a website? -->
 
+For futher details on copyright and IP at the University of Bristol please refer to the University Secretary's Office [link](https://www.bristol.ac.uk/secretary/legal/intellectual-property-rights/)
 
 There are plenty of reasons you may not be able to share your data and pipelines openly. 
 
@@ -240,6 +241,7 @@ Link to your organisation's commercialisation team.
 
 <!-- Who do researchers talk to for copyright and IP help? Got a website? -->
 
+For futher details on copyright and IP at the University of Bristol please refer to the University Secretary's Office [link](https://www.bristol.ac.uk/secretary/legal/intellectual-property-rights/)
 
 
 <!-- Include information about your commercialisation team here. -->
