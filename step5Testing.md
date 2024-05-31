@@ -227,7 +227,7 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
 
-Univeristy of Bristol offers training courses in R and Python. This can be accessed at:  
+Univeristy of Bristol offers training courses in R and Python. Information about these courses can be accessed at:  
 Advanced Computing Research Centre (ACRC) training:[link](https://www.bristol.ac.uk/acrc/acrc-training/)  
 Bristol Medical School Short courses: [link](https://www.bristol.ac.uk/medical-school/study/short-courses/) 
 
