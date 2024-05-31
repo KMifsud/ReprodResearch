@@ -269,7 +269,7 @@ create a citation for your work.
 
 <!-- Include information about your organisational data repository here. -->
 
-To find out more about ​​​​​​​data storage options for staff and students see [IT services - Filestores](https://uob.sharepoint.com/sites/itservices/SitePages/filestores.aspx)
+The University Research Data Storage Facility (RDSF) is available to researchers from all disciplines, to store their research data securely over the long term [IT services - RDSF](https://www.bristol.ac.uk/acrc/research-data-storage-facility/)
 
 [Here is a helpful guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 
