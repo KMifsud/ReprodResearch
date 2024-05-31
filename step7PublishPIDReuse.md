@@ -244,6 +244,7 @@ Link to your organisation's commercialisation team.
 
 <!-- Include information about your commercialisation team here. -->
 
+For more information about commercialisation please see [link](https://www.bristol.ac.uk/business/innovate-and-grow/research-commercialisation/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
